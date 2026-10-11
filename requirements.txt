@@ -4,3 +4,7 @@ numpy
 plotly
 scikit-learn
 joblib
+streamlit>=1.40
+pandas
+plotly>=5.20
+scikit-learn
